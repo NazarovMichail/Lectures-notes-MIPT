@@ -1,5 +1,5 @@
 # Лекции `Науки о данных` (МФТИ)
 ___
 ## Содержание
-- [Python](#)
+- [Python](#https://github.com/NazarovMichail/Lectures-notes-MIPT/tree/master/Python)
   
