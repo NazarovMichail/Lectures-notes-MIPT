@@ -14,7 +14,7 @@ ___
   - [Seaborn](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/Seaborn.ipynb)
 ### [Очистка данных](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/Data%20clean.ipynb)
 ## Файлы
-  - [Декодирование]()
-  - [JSON]()
-  - [XML]()
+  - [Декодирование](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/Encoder.ipynb)
+  - [JSON](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/JSON.ipynb)
+  - [XML](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/XML.ipynb)
 
