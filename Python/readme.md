@@ -8,7 +8,7 @@ ___
   - [DataFrame](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/Pandas%20DataFrame.ipynb)
   - [Series](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/Pandas%20Series.ipynb)
 ## Визуализация
-  - [Altair]()
-  - [Plotly]()
-  - [Matplotlib]()
-  - [Seaborn]()
+  - [Altair](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/Altair.ipynb)
+  - [Plotly](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/Plotly.ipynb)
+  - [Matplotlib](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/Matplotlib.ipynb)
+  - [Seaborn](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/Seaborn.ipynb)
