@@ -12,3 +12,4 @@ ___
   - [Plotly](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/Plotly.ipynb)
   - [Matplotlib](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/Matplotlib.ipynb)
   - [Seaborn](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/Seaborn.ipynb)
+### [Очистка данных](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/Data-clean.ipynb)
