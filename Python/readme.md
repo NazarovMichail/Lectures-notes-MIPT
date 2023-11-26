@@ -1,5 +1,4 @@
 ---
-
 ## Numpy
 
 - [Методы](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Numpy%20Arrays.ipynb)
@@ -27,6 +26,6 @@
 - [Декодирование](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Encoder.ipynb)
 - [JSON](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/JSON.ipynb)
 - [XML](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/XML.ipynb)
-- https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Parsing.ipynb
 
 ### [Парсинг](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Parsing.ipynb)
+---
