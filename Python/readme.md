@@ -26,10 +26,10 @@
 
 ### [Парсинг](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Parsing.ipynb)
 
-### [Git]()
+### [Git](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Git.ipynb)
 
-### [ООП]()
+### [ООП](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/OOP.ipynb)
 
-### [Markdown]()
+### [Markdown](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Markdown.ipynb)
 
 ### [Collections](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Collections.ipynb)
