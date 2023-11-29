@@ -1,3 +1,3 @@
-- [Линейная алгебра]()
-- [Статистика]()
-- [Мат. анализ]()
+- ### [Линейная алгебра](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Math/ipynb/Линейная%20алгебра.ipynb)
+- ### [Статистика](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Math/ipynb/Statistics.ipynb)
+- ### [Мат. анализ](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Math/ipynb/Матан.ipynb)
