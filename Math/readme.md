@@ -1,6 +1,6 @@
 - #### :capital_abcd: [Линейная алгебра. Основы](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Math/ipynb/Линейная%20алгебра.ipynb)
 
-    - #### :bar_chart: [Линейная алгебра](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Math/ipynb/Математика.%20Линенйая%20алгебра.ipynb)
+    - #### :capital_abcd: [Линейная алгебра](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Math/ipynb/Математика.%20Линенйая%20алгебра.ipynb)
 
 - #### :chart_with_upwards_trend: [Математический анализ. Основы](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Math/ipynb/Матан.ipynb)
     - #### :chart_with_upwards_trend: [Математический анализ](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Math/ipynb/Математика.%20Математический%20анализ.ipynb)
