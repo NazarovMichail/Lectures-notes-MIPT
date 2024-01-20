@@ -1,3 +1,5 @@
+# <center> Содержание
+
 ## `Numpy`
 |Тема | Открыть в коллабе|
 |:---|:---:|
@@ -23,18 +25,33 @@
 
 ## `Файлы`
 
-- [Декодирование](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Encoder.ipynb)
-- [JSON](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/JSON.ipynb)
-- [XML](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/XML.ipynb)
+|Тема | Открыть в коллабе|
+|:---|:---:|
+| Декодирование| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Encoder.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
+| JSON| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/JSON.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
+| XML| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/XML.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
 
-#### [Очистка данных](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Data%20clean.ipynb)
 
-#### [Парсинг](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Parsing.ipynb)
+|Тема | Открыть в коллабе|
+|:---|:---:|
+| Очистка данных| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Data%20clean.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
 
-#### [Git](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Git.ipynb)
+|Тема | Открыть в коллабе|
+|:---|:---:|
+| Парсинг| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Parsing.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
 
-#### [ООП](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/OOP.ipynb)
+|Тема | Открыть в коллабе|
+|:---|:---:|
+| Git| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Git.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
 
-#### [Markdown](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Markdown.ipynb)
+|Тема | Открыть в коллабе|
+|:---|:---:|
+| ООП| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/OOP.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
 
-#### [Collections](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Collections.ipynb)
+|Тема | Открыть в коллабе|
+|:---|:---:|
+| Markdown| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Markdown.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
+
+|Тема | Открыть в коллабе|
+|:---|:---:|
+| Collections| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Collections.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
