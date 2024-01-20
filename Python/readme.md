@@ -1,6 +1,9 @@
 ## `Numpy`
 
 - [Методы](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Numpy%20Arrays.ipynb)
+<a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Numpy%20Arrays.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 - [Типы данных](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Numpy_Data_types.ipynb)
 - [Обработка изображений](https://github.com/NazarovMichail/Lectures-notes-MIPT/blob/f7297d111b672d223aab1e37de0270925aedfcbf/Python/Numpy%20IMAGES.ipynb)
 
