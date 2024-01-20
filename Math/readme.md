@@ -11,5 +11,3 @@
 |Теория вероятностей | <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Math/ipynb/Math.Probability%20.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
 |Статистика | <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Math/ipynb/Statistics.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
 |Оптимизация |<a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Math/ipynb/Math.Optimization.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NazarovMichail/Lectures-notes-MIPT/blob/master/Math/ipynb/Math.Optimization.ipynb/HEAD)
