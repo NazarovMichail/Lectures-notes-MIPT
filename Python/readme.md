@@ -31,27 +31,13 @@
 | JSON| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/JSON.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
 | XML| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/XML.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
 
+## `Другое`
 
 |Тема | Открыть в коллабе|
 |:---|:---:|
 | Очистка данных| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Data%20clean.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
-
-|Тема | Открыть в коллабе|
-|:---|:---:|
 | Парсинг| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Parsing.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
-
-|Тема | Открыть в коллабе|
-|:---|:---:|
 | Git| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Git.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
-
-|Тема | Открыть в коллабе|
-|:---|:---:|
 | ООП| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/OOP.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
-
-|Тема | Открыть в коллабе|
-|:---|:---:|
 | Markdown| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Markdown.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
-
-|Тема | Открыть в коллабе|
-|:---|:---:|
 | Collections| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Collections.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
