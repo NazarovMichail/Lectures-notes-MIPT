@@ -11,8 +11,8 @@
 
 |Тема | Открыть в коллабе|
 |:---|:---:|
-| DataFrame|<a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Pandas%20DataFrame.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| Series| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Pandas%20Series.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
+| DataFrame            |<a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Pandas%20DataFrame.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Series               | <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/Python/ipynb/Pandas%20Series.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
 
 ## `Визуализация`
 
