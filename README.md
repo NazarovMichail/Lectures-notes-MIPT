@@ -4,5 +4,5 @@
 |:---|
 |[Python](https://github.com/NazarovMichail/Lectures-notes-MIPT/tree/master/Python) | 
 |[Математика](https://github.com/NazarovMichail/Lectures-notes-MIPT/tree/master/Math) | 
-|[Глубокое обучение](https://github.com/NazarovMichail/Lectures-notes-MIPT/tree/master/Deep%20Learning) | 
+|[Глубокое обучение](https://github.com/NazarovMichail/Lectures-notes-MIPT/tree/master/DL) | 
 
