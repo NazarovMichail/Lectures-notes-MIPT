@@ -11,4 +11,4 @@
 |Архитектуры ИНС для классификации |<a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/DL/CV/notes/NN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> |
 |Keras guide| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/DL/CV/notes/Keras.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
-|Pytorch guide| |
+|Pytorch guide| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Lectures-notes-MIPT/blob/master/DL/CV/notes/Torch%20guide.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
