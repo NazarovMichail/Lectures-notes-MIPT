@@ -7,4 +7,4 @@
 |[Глубокое обучение](https://github.com/NazarovMichail/Lectures-notes-MIPT/tree/master/DL) |
 |[Базы данных](https://github.com/NazarovMichail/Lectures-notes-MIPT/tree/master/Data%20Bases) |
 |[Инжиниринг данных](https://github.com/NazarovMichail/Lectures-notes-MIPT/tree/master/Data%20engineering) |
-|[DevOps](https://github.com/NazarovMichail/Lectures-notes-MIPT/tree/master/Data%20engineering) |
+|[DevOps](https://github.com/NazarovMichail/Lectures-notes-MIPT/tree/master/DevOps) |
